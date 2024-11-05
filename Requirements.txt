@@ -1,39 +1,47 @@
 REQUIREMENTS FOR THIS APP / TO DO LIST
 
-Start workout
-    -Start empty workout
-    -Start template workout
-
--> Track current wourkout
-    -Timer
-    -Confirm completed set
-        -Start rest timer
-        -(undo confirm possibility)
-    -Add notes
-    -Finish workout
-    
-Create template wourkouts
-    -Name
-    -Notes
-    -Exercises
-        -Sets
-            -Reps
-            -Weight
-        -Rest timer
-
-Add exercises/movements to the library
-    -Name
-    -Type
-        -Bodyweight
-        -Barbell
-        -Dumpbell
-        -Machine
-        -Cable
-
-List of completed workouts
-    -Access to notes
-    -Access to exercises
+VIEWS:
+    -StartWourkout
+    -History
+    -Profile
 
 
-Graphs showing calculated/estimated 1 rep maxes
+FUNCTIONALITIES:
+
+    Start workout
+        -Start empty workout
+        -Start template workout
+
+    -> Track current wourkout
+        -Timer
+        -Confirm completed set
+            -Start rest timer
+            -(undo confirm possibility)
+        -Add notes
+        -Finish workout
+        
+    Create template wourkouts
+        -Name
+        -Notes
+        -Exercises
+            -Sets
+                -Reps
+                -Weight
+            -Rest timer
+
+    Add exercises to the library
+        -Name
+        -Type
+            -Bodyweight
+            -Barbell
+            -Dumpbell
+            -Machine
+            -Cable
+
+    List of completed workouts
+        -Access to notes
+        -Access to exercises
+        -Calendar
+
+    Graphs showing estimated 1 rep maxes
 

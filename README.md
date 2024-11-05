@@ -1,5 +1,5 @@
 # FitnessAppi
 Repository for joutimis FitnessAppi
 
-
-Link to a Figma design file: https://www.figma.com/files/project/297896675
+Planning done in Figma.
+Link to a Figma project: https://www.figma.com/files/project/297896675
